@@ -1,0 +1,3 @@
+earth.jpg|C:\arcore-android-sdk\media\images/earth.jpg
+fire.jpg|C:\arcore-android-sdk\media\images/fire.jpg
+lamp.jpg|C:\arcore-android-sdk\media\images/lamp.jpg
